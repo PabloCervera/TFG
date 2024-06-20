@@ -19,3 +19,16 @@ Este proyecto tiene como objetivo predecir la conversión de pacientes con Deter
 
 ## Instalación de dependencias 
 
+### Fichero imputer.py
+
+pip install pandas scikit-learn imbalanced-learn missingpy
+
+### Fichero train.py
+
+pip install pandas seaborn matplotlib scikit-learn interpret 
+
+## Uso
+
+### Fichero imputer.py
+
+### Fichero train.py
